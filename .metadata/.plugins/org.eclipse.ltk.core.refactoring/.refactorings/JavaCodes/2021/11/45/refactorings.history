@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;ObjectOfAClass.java&apos; to &apos;CSC.java&apos;&#x0A;- Original project: &apos;JavaCodes.&apos;&#x0A;- Original element: &apos;ObjectOfAClass.java&apos;&#x0A;- Renamed element: &apos;CSC.java&apos;" description="Rename compilation unit &apos;ObjectOfAClass.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{ObjectOfAClass.java" name="CSC.java" references="false" stamp="1636322148428" version="1.0"/>
+</session>
